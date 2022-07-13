@@ -1,0 +1,15 @@
+SMAP
+loginform_jsp.java
+JSP
+*S JSP
+*F
++ 0 loginform.jsp
+loginform.jsp
++ 1 menu.html
+menu.html
+*L
+5,5:53
+1#1,62:58
+9#0,47:119
+57,52:168
+*E
